@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there! 🔥
+
+I'm Alhussain Almarhabi. Currently, I'm a Ph.D. candidate working on topics related to wireless communication with deep learning.
+
+In Progress...
 
 <!--
 **aalmarhabi/aalmarhabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
