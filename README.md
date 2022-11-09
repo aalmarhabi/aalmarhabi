@@ -5,6 +5,10 @@ I'm Alhussain Almarhabi. Currently, I'm a Ph.D. candidate working on topics rela
 #### List of Programming Languages Exposure:
 Python, C++, MATLAB, Go, R, Spark (Hadoop), C, Arduino, Assembly, Java
 
+#### Intresting Links to Check:
+Replit (Online IDE for almost all programming languages): http://replit.com/
+Scratch (Programming via blocks, to create digital stories, games, and animations.): https://scratch.mit.edu/about 
+
 In Progress...
 
 <!--
