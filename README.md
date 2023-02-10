@@ -3,7 +3,7 @@
 I'm Alhussain Almarhabi, Ph.D. Currently, I'm working on topics related to wireless communication with deep learning.
 
 #### List of Programming Languages Exposure:
-Python, C++, MATLAB, Go, R, Spark (Hadoop), C, Arduino, Assembly, Java
+Python, C++, MATLAB, Go, Rust, R, Spark (Hadoop), C, Arduino, Assembly, Java
 
 #### Intresting Links to Check:
 - Replit (Online IDE for almost all programming languages): http://replit.com/
