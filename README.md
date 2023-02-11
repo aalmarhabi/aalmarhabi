@@ -1,6 +1,6 @@
 ### 🔥  Hello there!  🔥
 
-I'm Alhussain Almarhabi, Ph.D. Currently, I'm working on topics related to wireless communication with deep learning.
+I'm Alhussain Almarhabi, Ph.D. Currently, I'm working on topics related to artificial intelligence.
 
 #### List of Programming Languages Exposure:
 Python, C++, MATLAB, Go, Rust, R, Spark (Hadoop), C, Arduino, Assembly, Java
