@@ -2,6 +2,8 @@
 
 I'm Alhussain Almarhabi, Ph.D. Currently, I'm working on topics related to artificial intelligence.
 
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~$ **Check out my website**. 🔺🔺🔺🔺 [aalmarhabi.github.io ](https://aalmarhabi.github.io/) 🔺🔺🔺🔺
+
 #### List of Programming Languages Exposure:
 Python, C++, MATLAB, Go, Rust, R, Spark (Hadoop), C, Arduino, Assembly, Java
 
